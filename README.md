@@ -53,7 +53,7 @@ It does not include real music streaming functionality.
 
 ## 👨‍💻 Author
 
-KaranSinh Mori  
+Karansinh Mori  
 
 ---
 
