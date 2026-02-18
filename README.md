@@ -46,7 +46,8 @@ It does not include real music streaming functionality.
 
 ## 📸 Screenshot
 
-![alt text](image.png)
+<img width="1916" height="1057" alt="image" src="https://github.com/user-attachments/assets/941b0fe8-4d49-466e-939c-8d56f10e53f6" />
+
 
 ---
 
