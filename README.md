@@ -4,6 +4,12 @@ A responsive Spotify Web Player Clone built using HTML and CSS.
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://karansinh1818.github.io/Spotify-Clone/
+
+---
+
 ## 📌 Project Description
 
 This project is a front-end clone of the Spotify Web Player interface.  
